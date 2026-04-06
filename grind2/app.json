@@ -16,10 +16,11 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.gaurangsharma.nlogn",
       "adaptiveIcon": {
         "backgroundColor": "#0F0F0F",
         "foregroundImage": "./assets/adaptive-icon.png"
-      },
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png",
@@ -28,6 +29,13 @@
     "plugins": [
       "expo-router",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "158ac38d-ddfc-42b3-83fc-3f3c35d8597e"
+      }
+    },
+    "owner": "gaurang_sharma"
   }
 }
