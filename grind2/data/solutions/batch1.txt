@@ -1,0 +1,84 @@
+arrays-1|1|Two Sum|arrays|Easy
+arrays-217|217|Contains Duplicate|arrays|Easy
+arrays-242|242|Valid Anagram|arrays|Easy
+arrays-49|49|Group Anagrams|arrays|Medium
+arrays-128|128|Longest Consecutive Sequence|arrays|Medium
+arrays-347|347|Top K Frequent Elements|arrays|Medium
+arrays-238|238|Product of Array Except Self|arrays|Medium
+arrays-36|36|Valid Sudoku|arrays|Medium
+arrays-271|271|Encode and Decode Strings|arrays|Medium
+arrays-659|659|Split Array into Consecutive Subsequences|arrays|Medium
+arrays-560|560|Subarray Sum Equals K|arrays|Medium
+arrays-53|53|Maximum Subarray|arrays|Medium
+arrays-152|152|Maximum Product Subarray|arrays|Medium
+arrays-153|153|Find Minimum in Rotated Sorted Array|arrays|Medium
+arrays-33|33|Search in Rotated Sorted Array|arrays|Medium
+arrays-75|75|Sort Colors|arrays|Medium
+arrays-169|169|Majority Element|arrays|Easy
+arrays-229|229|Majority Element II|arrays|Medium
+arrays-118|118|Pascals Triangle|arrays|Easy
+arrays-27|27|Remove Element|arrays|Easy
+arrays-26|26|Remove Duplicates from Sorted Array|arrays|Easy
+arrays-88|88|Merge Sorted Array|arrays|Easy
+arrays-189|189|Rotate Array|arrays|Medium
+arrays-41|41|First Missing Positive|arrays|Hard
+arrays-134|134|Gas Station|arrays|Medium
+arrays-299|299|Bulls and Cows|arrays|Medium
+arrays-448|448|Find All Numbers Disappeared in an Array|arrays|Easy
+arrays-442|442|Find All Duplicates in an Array|arrays|Medium
+arrays-304|304|Range Sum Query 2D Immutable|arrays|Medium
+arrays-912|912|Sort an Array|arrays|Medium
+two-pointers-125|125|Valid Palindrome|two-pointers|Easy
+two-pointers-15|15|3Sum|two-pointers|Medium
+two-pointers-11|11|Container With Most Water|two-pointers|Medium
+two-pointers-167|167|Two Sum II Input Array Is Sorted|two-pointers|Medium
+two-pointers-42|42|Trapping Rain Water|two-pointers|Hard
+two-pointers-344|344|Reverse String|two-pointers|Easy
+two-pointers-283|283|Move Zeroes|two-pointers|Easy
+two-pointers-16|16|3Sum Closest|two-pointers|Medium
+two-pointers-18|18|4Sum|two-pointers|Medium
+two-pointers-977|977|Squares of a Sorted Array|two-pointers|Easy
+two-pointers-680|680|Valid Palindrome II|two-pointers|Easy
+two-pointers-31|31|Next Permutation|two-pointers|Medium
+two-pointers-986|986|Interval List Intersections|two-pointers|Medium
+two-pointers-881|881|Boats to Save People|two-pointers|Medium
+two-pointers-82|82|Remove Duplicates from Sorted List II|two-pointers|Medium
+two-pointers-5|5|Longest Palindromic Substring|two-pointers|Medium
+two-pointers-392|392|Is Subsequence|two-pointers|Easy
+two-pointers-75|75|Sort Colors|two-pointers|Medium
+sliding-window-121|121|Best Time to Buy and Sell Stock|sliding-window|Easy
+sliding-window-3|3|Longest Substring Without Repeating Characters|sliding-window|Medium
+sliding-window-76|76|Minimum Window Substring|sliding-window|Hard
+sliding-window-424|424|Longest Repeating Character Replacement|sliding-window|Medium
+sliding-window-567|567|Permutation in String|sliding-window|Medium
+sliding-window-239|239|Sliding Window Maximum|sliding-window|Hard
+sliding-window-209|209|Minimum Size Subarray Sum|sliding-window|Medium
+sliding-window-438|438|Find All Anagrams in a String|sliding-window|Medium
+sliding-window-30|30|Substring with Concatenation of All Words|sliding-window|Hard
+sliding-window-904|904|Fruit Into Baskets|sliding-window|Medium
+sliding-window-1004|1004|Max Consecutive Ones III|sliding-window|Medium
+sliding-window-1423|1423|Maximum Points You Can Obtain from Cards|sliding-window|Medium
+sliding-window-395|395|Longest Substring with At Least K Repeating Characters|sliding-window|Medium
+sliding-window-340|340|Longest Substring with At Most K Distinct Characters|sliding-window|Medium
+sliding-window-159|159|Longest Substring with At Most Two Distinct Characters|sliding-window|Medium
+sliding-window-992|992|Subarrays with K Different Integers|sliding-window|Hard
+sliding-window-713|713|Subarray Product Less Than K|sliding-window|Medium
+sliding-window-658|658|Find K Closest Elements|sliding-window|Medium
+stack-20|20|Valid Parentheses|stack|Easy
+stack-155|155|Min Stack|stack|Medium
+stack-84|84|Largest Rectangle in Histogram|stack|Hard
+stack-150|150|Evaluate Reverse Polish Notation|stack|Medium
+stack-22|22|Generate Parentheses|stack|Medium
+stack-739|739|Daily Temperatures|stack|Medium
+stack-853|853|Car Fleet|stack|Medium
+stack-394|394|Decode String|stack|Medium
+stack-71|71|Simplify Path|stack|Medium
+stack-735|735|Asteroid Collision|stack|Medium
+stack-496|496|Next Greater Element I|stack|Easy
+stack-503|503|Next Greater Element II|stack|Medium
+stack-232|232|Implement Queue using Stacks|stack|Easy
+stack-225|225|Implement Stack using Queues|stack|Easy
+stack-946|946|Validate Stack Sequences|stack|Medium
+stack-1249|1249|Minimum Remove to Make Valid Parentheses|stack|Medium
+stack-901|901|Online Stock Span|stack|Medium
+stack-85|85|Maximal Rectangle|stack|Hard

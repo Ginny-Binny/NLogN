@@ -1,0 +1,66 @@
+heap-295|295|Find Median from Data Stream|heap|Hard
+heap-347|347|Top K Frequent Elements|heap|Medium
+heap-215|215|Kth Largest Element in an Array|heap|Medium
+heap-703|703|Kth Largest Element in a Stream|heap|Easy
+heap-1046|1046|Last Stone Weight|heap|Easy
+heap-973|973|K Closest Points to Origin|heap|Medium
+heap-621|621|Task Scheduler|heap|Medium
+heap-355|355|Design Twitter|heap|Medium
+heap-23|23|Merge K Sorted Lists|heap|Hard
+heap-378|378|Kth Smallest Element in a Sorted Matrix|heap|Medium
+heap-767|767|Reorganize String|heap|Medium
+heap-1337|1337|The K Weakest Rows in a Matrix|heap|Easy
+heap-692|692|Top K Frequent Words|heap|Medium
+heap-1642|1642|Furthest Building You Can Reach|heap|Medium
+backtracking-39|39|Combination Sum|backtracking|Medium
+backtracking-51|51|N-Queens|backtracking|Hard
+backtracking-46|46|Permutations|backtracking|Medium
+backtracking-78|78|Subsets|backtracking|Medium
+backtracking-90|90|Subsets II|backtracking|Medium
+backtracking-40|40|Combination Sum II|backtracking|Medium
+backtracking-79|79|Word Search|backtracking|Medium
+backtracking-131|131|Palindrome Partitioning|backtracking|Medium
+backtracking-17|17|Letter Combinations of a Phone Number|backtracking|Medium
+backtracking-77|77|Combinations|backtracking|Medium
+backtracking-47|47|Permutations II|backtracking|Medium
+backtracking-93|93|Restore IP Addresses|backtracking|Medium
+backtracking-52|52|N-Queens II|backtracking|Hard
+backtracking-37|37|Sudoku Solver|backtracking|Hard
+backtracking-980|980|Unique Paths III|backtracking|Hard
+backtracking-216|216|Combination Sum III|backtracking|Medium
+graphs-200|200|Number of Islands|graphs|Medium
+graphs-133|133|Clone Graph|graphs|Medium
+graphs-695|695|Max Area of Island|graphs|Medium
+graphs-417|417|Pacific Atlantic Water Flow|graphs|Medium
+graphs-130|130|Surrounded Regions|graphs|Medium
+graphs-994|994|Rotting Oranges|graphs|Medium
+graphs-207|207|Course Schedule|graphs|Medium
+graphs-210|210|Course Schedule II|graphs|Medium
+graphs-684|684|Redundant Connection|graphs|Medium
+graphs-323|323|Number of Connected Components in an Undirected Graph|graphs|Medium
+graphs-261|261|Graph Valid Tree|graphs|Medium
+graphs-127|127|Word Ladder|graphs|Hard
+graphs-785|785|Is Graph Bipartite|graphs|Medium
+graphs-841|841|Keys and Rooms|graphs|Medium
+graphs-547|547|Number of Provinces|graphs|Medium
+graphs-752|752|Open the Lock|graphs|Medium
+graphs-863|863|All Nodes Distance K in Binary Tree|graphs|Medium
+graphs-1091|1091|Shortest Path in Binary Matrix|graphs|Medium
+graphs-733|733|Flood Fill|graphs|Easy
+graphs-542|542|01 Matrix|graphs|Medium
+graphs-802|802|Find Eventual Safe States|graphs|Medium
+graphs-399|399|Evaluate Division|graphs|Medium
+graphs-310|310|Minimum Height Trees|graphs|Medium
+graphs-721|721|Accounts Merge|graphs|Medium
+graphs-1584|1584|Min Cost to Connect All Points|graphs|Medium
+graphs-286|286|Walls and Gates|graphs|Medium
+advanced-graphs-269|269|Alien Dictionary|advanced-graphs|Hard
+advanced-graphs-743|743|Network Delay Time|advanced-graphs|Medium
+advanced-graphs-787|787|Cheapest Flights Within K Stops|advanced-graphs|Medium
+advanced-graphs-332|332|Reconstruct Itinerary|advanced-graphs|Hard
+advanced-graphs-1514|1514|Path with Maximum Probability|advanced-graphs|Medium
+advanced-graphs-778|778|Swim in Rising Water|advanced-graphs|Hard
+advanced-graphs-1631|1631|Path With Minimum Effort|advanced-graphs|Medium
+advanced-graphs-329|329|Longest Increasing Path in a Matrix|advanced-graphs|Hard
+advanced-graphs-1368|1368|Minimum Cost to Make at Least One Valid Path in a Grid|advanced-graphs|Hard
+advanced-graphs-1192|1192|Critical Connections in a Network|advanced-graphs|Hard

@@ -1,0 +1,74 @@
+dp-1d-70|70|Climbing Stairs|dp-1d|Easy
+dp-1d-322|322|Coin Change|dp-1d|Medium
+dp-1d-300|300|Longest Increasing Subsequence|dp-1d|Medium
+dp-1d-198|198|House Robber|dp-1d|Medium
+dp-1d-213|213|House Robber II|dp-1d|Medium
+dp-1d-5|5|Longest Palindromic Substring|dp-1d|Medium
+dp-1d-647|647|Palindromic Substrings|dp-1d|Medium
+dp-1d-91|91|Decode Ways|dp-1d|Medium
+dp-1d-139|139|Word Break|dp-1d|Medium
+dp-1d-152|152|Maximum Product Subarray|dp-1d|Medium
+dp-1d-416|416|Partition Equal Subset Sum|dp-1d|Medium
+dp-1d-746|746|Min Cost Climbing Stairs|dp-1d|Easy
+dp-1d-343|343|Integer Break|dp-1d|Medium
+dp-1d-279|279|Perfect Squares|dp-1d|Medium
+dp-1d-377|377|Combination Sum IV|dp-1d|Medium
+dp-1d-983|983|Minimum Cost For Tickets|dp-1d|Medium
+dp-1d-337|337|House Robber III|dp-1d|Medium
+dp-1d-740|740|Delete and Earn|dp-1d|Medium
+dp-2d-1143|1143|Longest Common Subsequence|dp-2d|Medium
+dp-2d-312|312|Burst Balloons|dp-2d|Hard
+dp-2d-62|62|Unique Paths|dp-2d|Medium
+dp-2d-63|63|Unique Paths II|dp-2d|Medium
+dp-2d-64|64|Minimum Path Sum|dp-2d|Medium
+dp-2d-72|72|Edit Distance|dp-2d|Medium
+dp-2d-97|97|Interleaving String|dp-2d|Medium
+dp-2d-115|115|Distinct Subsequences|dp-2d|Hard
+dp-2d-518|518|Coin Change II|dp-2d|Medium
+dp-2d-494|494|Target Sum|dp-2d|Medium
+dp-2d-309|309|Best Time to Buy and Sell Stock with Cooldown|dp-2d|Medium
+dp-2d-188|188|Best Time to Buy and Sell Stock IV|dp-2d|Hard
+dp-2d-10|10|Regular Expression Matching|dp-2d|Hard
+dp-2d-44|44|Wildcard Matching|dp-2d|Hard
+dp-2d-221|221|Maximal Square|dp-2d|Medium
+dp-2d-516|516|Longest Palindromic Subsequence|dp-2d|Medium
+dp-2d-1312|1312|Minimum Insertion Steps to Make a String Palindrome|dp-2d|Hard
+dp-2d-474|474|Ones and Zeroes|dp-2d|Medium
+greedy-55|55|Jump Game|greedy|Medium
+greedy-45|45|Jump Game II|greedy|Medium
+greedy-53|53|Maximum Subarray|greedy|Medium
+greedy-846|846|Hand of Straights|greedy|Medium
+greedy-1899|1899|Merge Triplets to Form Target Triplet|greedy|Medium
+greedy-763|763|Partition Labels|greedy|Medium
+greedy-678|678|Valid Parenthesis String|greedy|Medium
+greedy-135|135|Candy|greedy|Hard
+greedy-621|621|Task Scheduler|greedy|Medium
+greedy-435|435|Non-overlapping Intervals|greedy|Medium
+greedy-452|452|Minimum Number of Arrows to Burst Balloons|greedy|Medium
+greedy-122|122|Best Time to Buy and Sell Stock II|greedy|Medium
+greedy-406|406|Queue Reconstruction by Height|greedy|Medium
+greedy-860|860|Lemonade Change|greedy|Easy
+greedy-1005|1005|Maximize Sum Of Array After K Negations|greedy|Easy
+greedy-376|376|Wiggle Subsequence|greedy|Medium
+greedy-134|134|Gas Station|greedy|Medium
+greedy-649|649|Dota2 Senate|greedy|Medium
+intervals-56|56|Merge Intervals|intervals|Medium
+intervals-57|57|Insert Interval|intervals|Medium
+intervals-435|435|Non-overlapping Intervals|intervals|Medium
+intervals-252|252|Meeting Rooms|intervals|Easy
+intervals-253|253|Meeting Rooms II|intervals|Medium
+intervals-1288|1288|Remove Covered Intervals|intervals|Medium
+intervals-759|759|Employee Free Time|intervals|Hard
+intervals-352|352|Data Stream as Disjoint Intervals|intervals|Hard
+math-bits-191|191|Number of 1 Bits|math-bits|Easy
+math-bits-268|268|Missing Number|math-bits|Easy
+math-bits-287|287|Find the Duplicate Number|math-bits|Medium
+math-bits-190|190|Reverse Bits|math-bits|Easy
+math-bits-338|338|Counting Bits|math-bits|Easy
+math-bits-371|371|Sum of Two Integers|math-bits|Medium
+math-bits-136|136|Single Number|math-bits|Easy
+math-bits-7|7|Reverse Integer|math-bits|Medium
+math-bits-9|9|Palindrome Number|math-bits|Easy
+math-bits-48|48|Rotate Image|math-bits|Medium
+math-bits-73|73|Set Matrix Zeroes|math-bits|Medium
+math-bits-54|54|Spiral Matrix|math-bits|Medium
