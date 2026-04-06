@@ -24,7 +24,7 @@ export default function TopicBrowser() {
     <SafeAreaView style={styles.container} edges={['top']}>
       <View style={styles.header}>
         <View style={styles.titleRow}>
-          <Text style={styles.title}>NLogN</Text>
+          <Text style={styles.title}>N<Text style={styles.titleRed}>Log</Text>N</Text>
           <Text style={styles.statText}>
             <Text style={styles.statHighlight}>{totalSolved}</Text> solved
           </Text>
@@ -55,6 +55,7 @@ const styles = StyleSheet.create({
   header: { paddingHorizontal: spacing.xl, paddingTop: spacing.md, paddingBottom: spacing.lg, gap: spacing.md },
   titleRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline' },
   title: { fontFamily: fonts.bodyBold, fontSize: fontSize.hero, color: colors.text, letterSpacing: 3 },
+  titleRed: { color: colors.red },
   statText: { fontFamily: fonts.body, fontSize: fontSize.sm, color: colors.textMuted },
   statHighlight: { fontFamily: fonts.bodyBold, color: colors.accent },
   grid: { paddingHorizontal: spacing.md, paddingBottom: spacing.xxl },
